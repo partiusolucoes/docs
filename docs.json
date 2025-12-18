@@ -3,7 +3,9 @@
   "theme": "mint",
   "name": "Partiu! Docs",
   "colors": {
-    "primary": "#0007CD"
+    "primary": "#0007CD",
+    "light": "#0007CD",
+    "dark": "#0007CD"
   },
   "favicon": "/favicon.svg",
   "background": {
